@@ -1,0 +1,20 @@
+C:\Users\mlins\source\repos\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\mlins\source\repos\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\mlins\source\repos\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\mlins\source\repos\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+C:\Users\mlins\source\repos\JogoDaMemoria\obj\Debug\JogoDaMemoria.Form1.resources
+C:\Users\mlins\source\repos\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\mlins\source\repos\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\mlins\source\repos\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\mlins\source\repos\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\mlins\source\repos\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+C:\Users\Familia\Desktop\Faculdade 3 semestre\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\Familia\Desktop\Faculdade 3 semestre\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\Familia\Desktop\Faculdade 3 semestre\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\Familia\Desktop\Faculdade 3 semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+C:\Users\Familia\Desktop\Faculdade 3 semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.Form1.resources
+C:\Users\Familia\Desktop\Faculdade 3 semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\Familia\Desktop\Faculdade 3 semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\Familia\Desktop\Faculdade 3 semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Faculdade 3 semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\Familia\Desktop\Faculdade 3 semestre\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
